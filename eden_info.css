@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(223, 230, 231);background-image: url(grunge-wall-texture.jpg);  
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ img {
+  height: 1000px;
+  width: 1000px;
+  max-width: 60%;
+  position: top;
+  padding: bottom 900px;
+  
+  
+ }
+ p {
+    width: 690px; height: 600px;; color: black; font-size: 17px; font-family: Inter; font-weight: 400; word-wrap: break-word; padding-right: 500px;
+ }
