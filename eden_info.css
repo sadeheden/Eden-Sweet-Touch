@@ -5,14 +5,15 @@ body {
 }
  p {
     width: 690px; height: 600px;
-     color: black; font-size: 17px;
+     color: black; font-size: 20px;
       font-family: Inter; 
       font-weight: 400; 
       word-wrap: break-word;
-       padding-right: 500px;
+       padding-right: 720px;
  }
  h1{
    font-size: 30px;
    text-align: center;
+   font-family: Arial, Helvetica, sans-serif
    
  }
