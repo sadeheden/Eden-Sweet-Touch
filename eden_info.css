@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+   
     
 }
  p {
@@ -9,7 +10,8 @@ body {
       font-family: Inter; 
       font-weight: 400; 
       word-wrap: break-word;
-       padding-right: 720px;
+       padding-right: 830px;
+       padding-top: 20px;
  }
  h1{
    font-size: 30px;
@@ -17,3 +19,4 @@ body {
    font-family: Arial, Helvetica, sans-serif
    
  }
+ 
